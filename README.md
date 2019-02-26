@@ -1,2 +1,4 @@
 # hello-world
-first repository
+first repositor
+working on github today
+lots of fan man !!
